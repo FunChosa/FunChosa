@@ -1,5 +1,6 @@
 <h1 align="left">Hi there👋, I'm Gulnaz ✨</h1>
-<p align="left"> Glad to see you here! <img src="https://komarev.com/ghpvc/?username=funchosa&label=Profile%20views&color=0e75b6&style=flat" alt="funchosa"  /> </p>
+<p align="left"> Glad to see you here!  </p>
+<img src="https://komarev.com/ghpvc/?username=funchosa&label=Profile%20views&color=0e75b6&style=flat" alt="funchosa"  />
 
 <h3 align="left">A beginner frontend developer</h3>
 
