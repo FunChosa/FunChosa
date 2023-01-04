@@ -42,4 +42,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funchosa&show_icons=true&locale=en" alt="funchosa" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   7 hrs 55 mins   ██████████████████████░░░   87.39 %
+HTML         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+JSON         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```
+
 <!--END_SECTION:waka-->
