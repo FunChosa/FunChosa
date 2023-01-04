@@ -40,3 +40,6 @@
 <h3 align="left">My GitHub History 📈:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funchosa&show_icons=true&locale=en" alt="funchosa" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
