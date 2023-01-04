@@ -4,8 +4,9 @@
 
 <h3 align="left">A beginner frontend developer</h3>
 
-- 🌱 I’m currently learning **React, JS**;
+- 🌱 I’m currently learning **JavaScript and React**;
 - 👩‍💻 I’m currently working on something cool;
+- 👾 Fun fact: you can call me Nazgul;
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -40,7 +41,7 @@
 <h3 align="left">My GitHub History 📈:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funchosa&show_icons=true&locale=en" alt="funchosa" /></p>
-
+<h3 align="left">This Week I Spent My Time On 📊:</h3>
 <!--START_SECTION:waka-->
 
 ```text
