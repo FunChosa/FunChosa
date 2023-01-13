@@ -37,10 +37,10 @@
 
 <a href="https://linkedin.com/in/gulnaz-gilazieva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulnaz-gilazieva" height="30" width="40" /></a>
 </p>
-
+<!-- 
 <h3 align="left">My GitHub History 📈:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funchosa&show_icons=true&locale=en" alt="funchosa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funchosa&show_icons=true&locale=en" alt="funchosa" /></p> -->
 <h3 align="left">This Week I Spent My Time On 📊:</h3>
 <!--START_SECTION:waka-->
 
