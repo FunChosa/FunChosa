@@ -44,8 +44,4 @@
 <h3 align="left">This Week I Spent My Time On 📊:</h3>
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   4 hrs 46 mins   █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
