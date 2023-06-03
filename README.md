@@ -44,7 +44,7 @@
 <h3 align="left">This Week I Spent My Time On 📊:</h3>
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
