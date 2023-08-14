@@ -41,10 +41,10 @@
 <h3 align="left">My GitHub History 📈:</h3>
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funchosa&show_icons=true&locale=en" alt="funchosa" /></p> -->
-<!-- 
+
 <h3 align="left">This Week I Spent My Time On 📊:</h3>
 <!-- START_SECTION:waka-->
-<!-- 
+
 ```txt
 TypeScript   3 hrs 4 mins    ████████████████░░░░░░░░░   64.39 %
 JSON         1 hr 14 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
