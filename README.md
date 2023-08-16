@@ -40,5 +40,4 @@
 
 <h3 align="left">This Week I Spent My Time On 📊:</h3>
 <!-- START_SECTION:waka-->
-
 <!--END_SECTION:waka -->
