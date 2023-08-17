@@ -2,7 +2,6 @@
 <!--  <img src="https://komarev.com/ghpvc/?username=funchosa&label=Profile%20views&color=0e75b6&style=flat" alt="funchosa"  />  -->
 
 - 🌱 I’m currently learning **JavaScript and React**;
-- 👩‍💻 I’m currently working on something cool;
 - 👾 Fun fact: you can call me Nazgul;
 <h3 align="left">Languages and Tools:</h3>
 
