@@ -35,7 +35,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <!-- visualstudio -->
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="react" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 
   
 <h3 align="left">This Week I Spent My Time On 📊:</h3>
