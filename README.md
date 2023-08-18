@@ -24,18 +24,20 @@
 <!-- react -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<!-- docker -->
-<a href="https://www.docker.com" target="_blank" rel="noreferrer">   
+  
+<!-- <a href="https://www.docker.com" target="_blank" rel="noreferrer">   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<!-- mongodb -->
+
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<!-- npm -->
+
 <a href="https://www.npmjs.com" target="_blank" rel="noreferrer">   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<!-- visualstudio -->
+
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+ -->
+
 
   
 <h3 align="left">This Week I Spent My Time On 📊:</h3>
