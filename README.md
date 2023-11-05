@@ -1,8 +1,7 @@
-<h1 align="left">Hi, I'm Gulnaz ✨</h1>
+<h1 align="left">Hello there ✨</h1>
 <!--  <img src="https://komarev.com/ghpvc/?username=funchosa&label=Profile%20views&color=0e75b6&style=flat" alt="funchosa"  />  -->
 
 - 🌱 I’m currently learning **Typescript and React**;
-- 👾 Fun fact: you can call me Nazgul;
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
