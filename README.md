@@ -51,4 +51,4 @@ TSConfig     1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<div class="tenor-gif-embed" data-postid="21573130" data-share-method="host" data-aspect-ratio="5.245" data-width="100%"><a href="https://tenor.com/view/totoro-discord-header-aesthetic-anime-gif-21573130">Totoro Discord Sticker</a>from <a href="https://tenor.com/search/totoro-stickers">Totoro Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
