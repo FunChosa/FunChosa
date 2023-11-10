@@ -52,3 +52,4 @@ TSConfig     1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+![ori-ori-and-the-blind-forest](https://github.com/FunChosa/FunChosa/assets/112805319/ba898279-f726-47c4-8df6-6882acb8df23)
