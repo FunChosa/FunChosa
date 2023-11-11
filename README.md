@@ -14,7 +14,7 @@
 
 <div align="center">
   
-  ![ezgif com-resize (1)](https://github.com/FunChosa/readme-test/assets/112805319/8f087dca-c115-4535-b567-5f59c1dea8de)
+  ![shigure-ui-dance](https://github.com/FunChosa/FunChosa/assets/112805319/5523de84-432a-4a07-a93a-e971494eda4d)
 
 </div>
  
