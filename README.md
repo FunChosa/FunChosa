@@ -11,6 +11,12 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 </div>
+
+<div align="center">
+  
+  ![ezgif com-resize (1)](https://github.com/FunChosa/readme-test/assets/112805319/8f087dca-c115-4535-b567-5f59c1dea8de)
+
+</div>
  
 <h3 align="center">This Week I Spent My Time On:</h3>
 <!--START_SECTION:waka-->
@@ -24,8 +30,4 @@ TSConfig     1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<div align="center">
-  
-  ![ezgif com-resize (1)](https://github.com/FunChosa/readme-test/assets/112805319/8f087dca-c115-4535-b567-5f59c1dea8de)
 
-</div>
