@@ -8,9 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 8 mins    ████████████████████████▒   97.80 %
-Makefile     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   2 hrs 49 mins   ███████████████████████▒░   93.69 %
+YAML         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
