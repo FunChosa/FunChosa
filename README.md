@@ -8,11 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Fluent            52 mins         ██████████████████▒░░░░░░   73.46 %
-Java Properties   12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
-JavaScript        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-CSS               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
