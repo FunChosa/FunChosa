@@ -8,7 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       28 mins         █████████████████████░░░░   84.31 %
+JSON         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
